@@ -1,8 +1,5 @@
 import React from "react";
 import { ReactDOM } from "react-dom";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import Slider from "react-slick";
-// import SliderComponent from "./SliderComponent";
 import logo from "../uploads/logo-final.png";
 
 function Heading() {

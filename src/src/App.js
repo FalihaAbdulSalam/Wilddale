@@ -1,5 +1,3 @@
-// import "./App.css";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {} from "@fortawesome/free-brands-svg-icons";
 import Heading from "./components/Heading";
 import 'bootstrap/dist/css/bootstrap.min.css';
@@ -12,8 +10,7 @@ import { useEffect } from "react";
 import Body from "./components/Body";
 import Footer from "./components/Footer";
 import  BasicSlider from "./components/BasicSlider";
-import DarkVariantExample from "./components/BasicSlider";
-import TestimonialSection from "./components/Testimonial";
+
 // import "./autoptimize_ae8e46b110fb0b0282f8bcad5fd836d7.css"
 
 function App() {
@@ -46,7 +43,6 @@ function App() {
           <Heading />
           <BasicSlider />
           <Body />
-          {/* <TestimonialSection /> */}
           <Footer />
           {/* .site-footer */}
           {/* .site-content-wrapper */}

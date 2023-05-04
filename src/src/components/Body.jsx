@@ -1,6 +1,5 @@
 import React from "react";
 import MyComponent from "./MyComponent";
-import Slider from "react-slick";
 import Small from "./Small";
 import Test from "./Test";
 import PortfolioCarousel from "./Port";
@@ -1413,7 +1412,7 @@ function Body() {
                                                             <img
                                                               width={150}
                                                               height={150}
-                                                              src="https://sp-ao.shortpixel.ai/client/q_lqip,ret_wait,w_150,h_150/https://www.themetechmount.com/wordpress/wilddale/wp-content/uploads/2021/09/Testimonial-3-150x150.jpg"
+                                                              src="https://sp-ao.shortpixel.ai/client/q_lqip,ret_wait,w_150,h_150/https://www.themetechmount.com/wordpress/wilddale/wp-content/uploads/2021/09/-3-150x150.jpg"
                                                               data-src="https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_150,h_150/https://www.themetechmount.com/wordpress/wilddale/wp-content/uploads/2021/09/Testimonial-3-150x150.jpg"
                                                               className="lazyload attachment-thumbnail size-thumbnail wp-post-image"
                                                               alt=""
